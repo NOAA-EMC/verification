@@ -1,0 +1,3 @@
+[submodule "verf_g2g"]
+        path = verf_g2g
+        url = https://github.com/NOAA-EMC/verf_g2g.git
