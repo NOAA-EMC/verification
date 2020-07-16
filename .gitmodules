@@ -1,3 +1,6 @@
 [submodule "verf_g2g"]
         path = verf_g2g
         url = https://github.com/NOAA-EMC/verf_g2g.git
+[submodule "verf_grid2obs"]
+        path = verf_grid2obs
+        url = https://github.com/NOAA-EMC/verf_grid2obs.git
