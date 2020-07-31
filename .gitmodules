@@ -4,3 +4,6 @@
 [submodule "verf_grid2obs"]
         path = verf_grid2obs
         url = https://github.com/NOAA-EMC/verf_grid2obs.git
+[submodule "verf_precip"]
+        path = verf_precip
+        url = https://github.com/NOAA-EMC/verf_precip.git
